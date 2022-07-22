@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - </title>
+        <link>https://aliciagaona.github.io/BlogDelAjolonauta/categories/</link>
+        <description>Categories - Category - </description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://aliciagaona.github.io/BlogDelAjolonauta/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Documentation</title>
+    <link>https://aliciagaona.github.io/BlogDelAjolonauta/categories/documentation/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://aliciagaona.github.io/BlogDelAjolonauta/categories/documentation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://aliciagaona.github.io/BlogDelAjolonauta/categories/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://aliciagaona.github.io/BlogDelAjolonauta/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>syntax</title>
+    <link>https://aliciagaona.github.io/BlogDelAjolonauta/categories/syntax/</link>
+    <pubDate>Mon, 11 Mar 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://aliciagaona.github.io/BlogDelAjolonauta/categories/syntax/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>themes</title>
+    <link>https://aliciagaona.github.io/BlogDelAjolonauta/categories/themes/</link>
+    <pubDate>Mon, 11 Mar 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://aliciagaona.github.io/BlogDelAjolonauta/categories/themes/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
